@@ -5,6 +5,7 @@ go 1.12
 replace (
 	github.com/containerd/containerd => github.com/containerd/containerd v1.3.1-0.20200227195959-4d242818bf55
 	github.com/docker/docker => github.com/docker/docker v1.4.2-0.20200227233006-38f52c9fec82
+	github.com/quay/claircore => github.com/allda/claircore  v4.0.0-araszka-test
 )
 
 require (
