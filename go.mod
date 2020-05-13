@@ -1,4 +1,4 @@
-module github.com/quay/claircore
+module github.com/allda/claircore
 
 go 1.12
 
